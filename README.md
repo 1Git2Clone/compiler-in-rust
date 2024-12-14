@@ -3,7 +3,7 @@
 [![Build Icon]][Build Status]&emsp;[![License Icon]][LICENSE]
 
 [Build Icon]: https://img.shields.io/github/actions/workflow/status/1git2clone/compiler-in-rust/rust.yml?branch=main
-[Build Status]: https://github.com/1git2clone/leetcode-trees-rs/actions?query=branch%3Amain
+[Build Status]: https://github.com/1git2clone/compiler-in-rust/actions?query=branch%3Amain
 [License Icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [LICENSE]: LICENSE
 
